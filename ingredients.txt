@@ -1,9 +1,14 @@
 * 2 tbsp cilantro
 * 2 avocados
 * 1 lime
+<<<<<<< HEAD
 * 2 tsp salt
 <<<<<<< HEAD
 * special ingredient
+=======
+* 1 tsp salt
+
+>>>>>>> less-salt
 sublimemerge
 
 =======

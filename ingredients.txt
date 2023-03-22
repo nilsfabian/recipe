@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 * 3 tbsp cilantro
+=======
+* 0 tbsp cilantro
+>>>>>>> dislike-cilantro
 * 2 avocados
 * 1 lime
 * 2 tsp salt
